@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbaron_template_docs=self.webpackChunkbaron_template_docs||[]).push([[511],{6873:function(e){e.exports=JSON.parse('{"permalink":"/baron-boilerplate-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

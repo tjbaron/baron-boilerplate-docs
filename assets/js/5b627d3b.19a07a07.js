@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbaron_template_docs=self.webpackChunkbaron_template_docs||[]).push([[415],{8649:function(a){a.exports=JSON.parse('{"allTagsPath":"/baron-boilerplate-docs/blog/tags","slug":"/baron-boilerplate-docs/blog/tags/docusaurus","name":"docusaurus","count":1,"permalink":"/baron-boilerplate-docs/blog/tags/docusaurus"}')}}]);
