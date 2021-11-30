@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://baroncreations.com/blog</id>
+    <title>Baron Boilerplates Blog</title>
+    <updated>2021-11-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://baroncreations.com/blog"/>
+    <subtitle>Baron Boilerplates Blog</subtitle>
+    <icon>https://baroncreations.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Live Javascript code in your docs]]></title>
+        <id>live-code</id>
+        <link href="https://baroncreations.com/blog/live-code"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a simple example of live code here in docusaurus:]]></summary>
+        <content type="html"><![CDATA[<p>Here is a simple example of live code here in docusaurus:</p><pre><code class="language-jsx" metastring="live">() =&gt; {
+  return &lt;div&gt;Hello world&lt;/div&gt;
+}
+</code></pre>]]></content>
+        <author>
+            <name>Baron</name>
+            <uri>https://github.com/tjbaron</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://baroncreations.com/blog/welcome"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I am mostly creating these templates for myself. But anyone else is free to use them]]></summary>
+        <content type="html"><![CDATA[<p>Hello! I am mostly creating these templates for myself. But anyone else is free to use them
+as well. In many cases however you may be better off using the projects their based on directly.</p><p>For example this site uses <a href="https://docusaurus.io/">Docusaurus</a> and the settings I chose may not be right for you (such
+as using Typescript and including live code editing). It is also extremely easy to setup Docusaurus directly. Simply run&#x27;:</p><pre><code>npx create-docusaurus@latest my-docs classic
+</code></pre>]]></content>
+        <author>
+            <name>Baron</name>
+            <uri>https://github.com/tjbaron</uri>
+        </author>
+    </entry>
+</feed>
