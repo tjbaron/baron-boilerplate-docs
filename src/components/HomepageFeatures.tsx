@@ -7,6 +7,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import config from './../../docusaurus.config';
 
 type FeatureItem = {
   title: string;
@@ -17,7 +18,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Setup to my personal liking',
-    image: '/img/undraw_docusaurus_mountain.svg',
+    image: `${config.baseUrl}img/undraw_docusaurus_mountain.svg`,
     description: (
       <>
         Everyone has their own prefered technology stack. These templates
@@ -27,7 +28,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'As consistent as possible',
-    image: '/img/undraw_docusaurus_tree.svg',
+    image: `${config.baseUrl}img/undraw_docusaurus_tree.svg`,
     description: (
       <>
         All templates have a certain level of consistency between them.
@@ -36,7 +37,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Modern technologies',
-    image: '/img/undraw_docusaurus_react.svg',
+    image: `${config.baseUrl}img/undraw_docusaurus_react.svg`,
     description: (
       <>
         I don't want to do things the old way! At least when there's a new way that's better.

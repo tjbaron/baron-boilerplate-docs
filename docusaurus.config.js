@@ -4,12 +4,14 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const baseUrl = '/baron-boilerplate-docs/';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Baron Boilerplates',
   tagline: 'Starting point for applications',
   url: 'https://baroncreations.com',
-  baseUrl: '/',
+  baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -47,7 +49,7 @@ const config = {
         title: 'Baron Boilerplate',
         logo: {
           alt: 'Logo',
-          src: 'img/BaronCreationsLogo.png',
+          src: `${baseUrl}img/BaronCreationsLogo.png`,
         },
         items: [
           {
