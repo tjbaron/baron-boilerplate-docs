@@ -14,7 +14,12 @@
         <updated>2021-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Here is a simple example of live code here in docusaurus:]]></summary>
         <content type="html"><![CDATA[<p>Here is a simple example of live code here in docusaurus:</p><pre><code class="language-jsx" metastring="live">() =&gt; {
-  return &lt;div&gt;Hello world&lt;/div&gt;
+
+  const MyComponent = () =&gt; {
+    return &lt;div&gt;Hello world&lt;/div&gt;
+  }
+  
+  return &lt;MyComponent /&gt;;
 }
 </code></pre>]]></content>
         <author>
