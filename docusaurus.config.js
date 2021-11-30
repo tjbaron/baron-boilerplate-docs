@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'baroncreations', // Usually your GitHub org/user name.
-  projectName: 'baron-boilerplates', // Usually your repo name.
+  organizationName: 'tjbaron', // Usually your GitHub org/user name.
+  projectName: 'baron-boilerplate-docs', // Usually your repo name.
 
   plugins: ['@docusaurus/theme-live-codeblock'],
   presets: [
