@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const baseUrl = '/baron-boilerplate-docs/';
+const baseUrl = '/';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -27,13 +27,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/tjbaron/baron-boilerplate-docs/docs/',
+          editUrl: 'https://github.com/tjbaron/baron-boilerplate-docs/blob/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/tjbaron/baron-boilerplate-docs/blog/',
+            'https://github.com/tjbaron/baron-boilerplate-docs/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
