@@ -10,7 +10,7 @@ const baseUrl = '/';
 const config = {
   title: 'Baron Boilerplates',
   tagline: 'Starting point for applications',
-  url: 'https://baroncreations.com',
+  url: 'https://boilerplate-docs.baroncreations.com',
   baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
