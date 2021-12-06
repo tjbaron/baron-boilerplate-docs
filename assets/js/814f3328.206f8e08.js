@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbaron_template_docs=self.webpackChunkbaron_template_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Live Javascript code in your docs","permalink":"/baron-boilerplate-docs/blog/live-code"},{"title":"Welcome","permalink":"/baron-boilerplate-docs/blog/welcome"}]}')}}]);

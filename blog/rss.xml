@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Baron Boilerplates Blog</title>
-        <link>https://baroncreations.com/baron-boilerplate-docs/blog</link>
+        <link>https://baroncreations.com/blog</link>
         <description>Baron Boilerplates Blog</description>
         <lastBuildDate>Tue, 30 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Live Javascript code in your docs]]></title>
-            <link>https://baroncreations.com/baron-boilerplate-docs/blog/live-code</link>
+            <link>https://baroncreations.com/blog/live-code</link>
             <guid>live-code</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Here is a simple example of live code here in docusaurus:]]></description>
@@ -25,7 +25,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://baroncreations.com/baron-boilerplate-docs/blog/welcome</link>
+            <link>https://baroncreations.com/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello! I am mostly creating these templates for myself. But anyone else is free to use them]]></description>

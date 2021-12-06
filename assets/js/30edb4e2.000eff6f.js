@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbaron_template_docs=self.webpackChunkbaron_template_docs||[]).push([[780],{5785:function(e){e.exports=JSON.parse('{"allTagsPath":"/baron-boilerplate-docs/blog/tags","slug":"/baron-boilerplate-docs/blog/tags/live","name":"live","count":1,"permalink":"/baron-boilerplate-docs/blog/tags/live"}')}}]);
